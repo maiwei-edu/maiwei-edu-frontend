@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://maiwei-edu.github.io//maiwei-edu-frontend",
+  "homepage": "./",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
     "antd": "^5.3.2",
