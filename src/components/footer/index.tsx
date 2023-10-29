@@ -64,13 +64,13 @@ export const Footer = (props: Props) => {
             </div>
           </div>
         )}
-        <div className={styles["info2"]}>
+        {/* <div className={styles["info2"]}>
           <a href="https://www.meedu.vip/" target="_blank">
             <img src={footlink} />
           </a>
-        </div>
+        </div> */}
         <div className={styles["info1"]}>
-          © 2021 {config.webname}
+          迈微课堂 © 2021 {config.webname}
           {config.icp && (
             <a href={config.icp_link} target="_blank">
               •{config.icp}
