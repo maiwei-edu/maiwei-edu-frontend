@@ -1,0 +1,1 @@
+import{s,aZ as e,an as t}from"./index-e91a7de6.js";const a="/assets/img-placeholder-233144c2.png",i=()=>s.jsx("div",{className:e["img-box"],children:s.jsx(t,{src:a,width:200,height:200,preview:!1})});export{i as E};
